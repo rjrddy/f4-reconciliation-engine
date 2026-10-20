@@ -1,0 +1,26 @@
+{
+  "id": "F4",
+  "name": "Reconciliation engine",
+  "problem": "Match bank transactions to ledger entries with fuzzy rules, explain each match, surface exceptions.",
+  "results": [
+    [
+      "Synthetic bank transactions",
+      "bank_transactions",
+      ""
+    ],
+    [
+      "Match rate",
+      "match_rate",
+      ""
+    ],
+    [
+      "False-match rate",
+      "false_match_rate",
+      ""
+    ]
+  ],
+  "diagram": "SyntheticBankAndLedger --> AmountCurrencyDateFilter --> FuzzyDescription --> OneToOneMatchesAndExceptions",
+  "limits": "Synthetic financial data only. Integer cents avoid rounding ambiguity; currency and amount must match exactly before fuzzy description/date comparison. Ambiguous candidates are surfaced rather than forced. Injected amount changes and missing entries reduce match rate intentionally. False-match rate uses the generated pairing labels; it is not a production estimate. Every accepted match has a score and explanation in evidence/reconciliation.json. Processing order can affect conflicts; global optimal assignment remains Next.",
+  "next": "Add global assignment, partial payments and separately calibrated candidate scoring.",
+  "status": "done"
+}

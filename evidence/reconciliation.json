@@ -1,0 +1,1138 @@
+{
+  "matches": [
+    {
+      "bank": "B1",
+      "ledger": "L1",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B2",
+      "ledger": "L2",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B3",
+      "ledger": "L3",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B4",
+      "ledger": "L4",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B5",
+      "ledger": "L5",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B6",
+      "ledger": "L6",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B7",
+      "ledger": "L7",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B8",
+      "ledger": "L8",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B9",
+      "ledger": "L9",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B10",
+      "ledger": "L10",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B11",
+      "ledger": "L11",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B12",
+      "ledger": "L12",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B14",
+      "ledger": "L14",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B15",
+      "ledger": "L15",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B16",
+      "ledger": "L16",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B17",
+      "ledger": "L17",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B18",
+      "ledger": "L18",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B19",
+      "ledger": "L19",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B20",
+      "ledger": "L20",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B21",
+      "ledger": "L21",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B22",
+      "ledger": "L22",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B23",
+      "ledger": "L23",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B24",
+      "ledger": "L24",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B25",
+      "ledger": "L25",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B27",
+      "ledger": "L27",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B28",
+      "ledger": "L28",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B29",
+      "ledger": "L29",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B30",
+      "ledger": "L30",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B31",
+      "ledger": "L31",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B32",
+      "ledger": "L32",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B33",
+      "ledger": "L33",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B34",
+      "ledger": "L34",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B35",
+      "ledger": "L35",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B36",
+      "ledger": "L36",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B37",
+      "ledger": "L37",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B38",
+      "ledger": "L38",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B40",
+      "ledger": "L40",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B41",
+      "ledger": "L41",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B42",
+      "ledger": "L42",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B43",
+      "ledger": "L43",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B44",
+      "ledger": "L44",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B45",
+      "ledger": "L45",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B46",
+      "ledger": "L46",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B47",
+      "ledger": "L47",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B48",
+      "ledger": "L48",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B49",
+      "ledger": "L49",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B50",
+      "ledger": "L50",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B51",
+      "ledger": "L51",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B53",
+      "ledger": "L53",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B54",
+      "ledger": "L54",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B55",
+      "ledger": "L55",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B56",
+      "ledger": "L56",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B57",
+      "ledger": "L57",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B58",
+      "ledger": "L58",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B59",
+      "ledger": "L59",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B60",
+      "ledger": "L60",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B61",
+      "ledger": "L61",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B62",
+      "ledger": "L62",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B63",
+      "ledger": "L63",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B64",
+      "ledger": "L64",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B66",
+      "ledger": "L66",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B67",
+      "ledger": "L67",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B68",
+      "ledger": "L68",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B69",
+      "ledger": "L69",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B70",
+      "ledger": "L70",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B71",
+      "ledger": "L71",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B72",
+      "ledger": "L72",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B73",
+      "ledger": "L73",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B74",
+      "ledger": "L74",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B75",
+      "ledger": "L75",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B76",
+      "ledger": "L76",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B77",
+      "ledger": "L77",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B79",
+      "ledger": "L79",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B80",
+      "ledger": "L80",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B81",
+      "ledger": "L81",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B82",
+      "ledger": "L82",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B83",
+      "ledger": "L83",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B84",
+      "ledger": "L84",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B85",
+      "ledger": "L85",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B86",
+      "ledger": "L86",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B87",
+      "ledger": "L87",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B88",
+      "ledger": "L88",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B89",
+      "ledger": "L89",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B90",
+      "ledger": "L90",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B92",
+      "ledger": "L92",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B93",
+      "ledger": "L93",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B94",
+      "ledger": "L94",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B95",
+      "ledger": "L95",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B96",
+      "ledger": "L96",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B97",
+      "ledger": "L97",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B98",
+      "ledger": "L98",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B99",
+      "ledger": "L99",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B100",
+      "ledger": "L100",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B101",
+      "ledger": "L101",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B102",
+      "ledger": "L102",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B103",
+      "ledger": "L103",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B105",
+      "ledger": "L105",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B106",
+      "ledger": "L106",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B107",
+      "ledger": "L107",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B108",
+      "ledger": "L108",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B109",
+      "ledger": "L109",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B110",
+      "ledger": "L110",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B111",
+      "ledger": "L111",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B112",
+      "ledger": "L112",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B113",
+      "ledger": "L113",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B114",
+      "ledger": "L114",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B115",
+      "ledger": "L115",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B116",
+      "ledger": "L116",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B118",
+      "ledger": "L118",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B119",
+      "ledger": "L119",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B120",
+      "ledger": "L120",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B121",
+      "ledger": "L121",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B122",
+      "ledger": "L122",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B123",
+      "ledger": "L123",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B124",
+      "ledger": "L124",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B125",
+      "ledger": "L125",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B126",
+      "ledger": "L126",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B127",
+      "ledger": "L127",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B128",
+      "ledger": "L128",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B129",
+      "ledger": "L129",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B131",
+      "ledger": "L131",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B132",
+      "ledger": "L132",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B133",
+      "ledger": "L133",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B134",
+      "ledger": "L134",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B135",
+      "ledger": "L135",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B136",
+      "ledger": "L136",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B137",
+      "ledger": "L137",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B138",
+      "ledger": "L138",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B139",
+      "ledger": "L139",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B140",
+      "ledger": "L140",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B141",
+      "ledger": "L141",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B142",
+      "ledger": "L142",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B144",
+      "ledger": "L144",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B145",
+      "ledger": "L145",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B146",
+      "ledger": "L146",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B147",
+      "ledger": "L147",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B148",
+      "ledger": "L148",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B149",
+      "ledger": "L149",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B150",
+      "ledger": "L150",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B151",
+      "ledger": "L151",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B152",
+      "ledger": "L152",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B153",
+      "ledger": "L153",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B154",
+      "ledger": "L154",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B155",
+      "ledger": "L155",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B157",
+      "ledger": "L157",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B158",
+      "ledger": "L158",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B159",
+      "ledger": "L159",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B160",
+      "ledger": "L160",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B161",
+      "ledger": "L161",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B162",
+      "ledger": "L162",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B163",
+      "ledger": "L163",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B164",
+      "ledger": "L164",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B165",
+      "ledger": "L165",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B166",
+      "ledger": "L166",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B167",
+      "ledger": "L167",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B168",
+      "ledger": "L168",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B170",
+      "ledger": "L170",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B171",
+      "ledger": "L171",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B172",
+      "ledger": "L172",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B173",
+      "ledger": "L173",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B174",
+      "ledger": "L174",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B175",
+      "ledger": "L175",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B176",
+      "ledger": "L176",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B177",
+      "ledger": "L177",
+      "score": 0.97,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B178",
+      "ledger": "L178",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    },
+    {
+      "bank": "B179",
+      "ledger": "L179",
+      "score": 1.0,
+      "reason": "same integer cents and currency; date window; normalized description similarity"
+    }
+  ],
+  "exceptions": [
+    {
+      "bank": "B0",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B13",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B26",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B39",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B52",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B65",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B78",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B91",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B104",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B117",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B130",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B143",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B156",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B169",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B180",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B181",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B182",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B183",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B184",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B185",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B186",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B187",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B188",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B189",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B190",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B191",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B192",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B193",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B194",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B195",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B196",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B197",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B198",
+      "reason": "no compatible entry"
+    },
+    {
+      "bank": "B199",
+      "reason": "no compatible entry"
+    }
+  ]
+}
